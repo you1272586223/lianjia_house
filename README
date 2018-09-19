@@ -1,3 +1,3 @@
-学习python的爬虫框架scrapy时,爬取链家租房信息<br/>
+学习python的爬虫框架scrapy时,爬取链家租房信息
 使用环境python3.0+,scrapy框架,mongodb数据库
-
+用pycharm导入项目，打开main.py文件,右击 "run main" 即可
